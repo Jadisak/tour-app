@@ -93,7 +93,6 @@ h4 {
   font-size: 0.875rem;
 }
 p {
-  margin-bottom: 1.25rem;
   color: var(--clr-grey-5);
 }
 @media screen and (min-width: 800px) {
@@ -141,7 +140,7 @@ p {
 }
 /* section */
 .section {
-  padding: 5rem 0;
+  padding: 2rem 0;
   scroll-margin-top: 4rem;
 }
 .section-title {
@@ -439,7 +438,7 @@ Footer
 .copyright {
   text-transform: capitalize;
   letter-spacing: var(--spacing);
-  color: var(--clr-white);
+  font-size: 0.7rem;
 }
 .copyright span {
   margin-left: 0.5rem;
